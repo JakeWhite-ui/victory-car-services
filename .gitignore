@@ -1,0 +1,10 @@
+# internal working notes — not for the client's eyes
+brand-spec.md
+DESIGN.md
+
+# original full-size downloads, re-derivable; img/ holds the shipped WebP
+assets-src/
+
+# working screenshots
+*.jpeg
+.DS_Store
