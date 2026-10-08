@@ -8,3 +8,6 @@ assets-src/
 # working screenshots
 *.jpeg
 .DS_Store
+
+# sales pitch — mine, not part of the client's site
+pitch/
